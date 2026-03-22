@@ -172,31 +172,14 @@ This project demonstrates the use of **JavaScript, API integration, and modern U
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your-username/smart-safety-dashboard.git
-   ```
-
-2. Navigate to project folder:
-
-   ```
-   cd smart-safety-dashboard
-   ```
-
-3. Open `index.html` in your browser
-
----
 
 ## 🔑 API Configuration
 
 Update your API keys in `script.js`:
 
 ```js
-const WEATHER_API_KEY = "your_openweather_api_key";
-const NEWS_API_KEY = "your_news_api_key";
+const WEATHER_API_KEY = "e8b67a087834ac4643e405d8c13670fe";
+const NEWS_API_KEY = "searching";
 ```
 
 ---
@@ -242,10 +225,8 @@ const NEWS_API_KEY = "your_news_api_key";
 
 ## 👨‍💻 Author
 
-**Your Name**
+yash sengar
 
 ---
-
-## 📜 License
 
 This project is created for educational purposes.
