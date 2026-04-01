@@ -223,6 +223,8 @@ const NEWS_API_KEY = "searching";
 
 ---
 
+Demo link - https://yashsengar455.github.io/Smart-Crisis-Safety-Dashboard/
+
 ## 👨‍💻 Author
 
 yash sengar
